@@ -1,3 +1,5 @@
+/*Aluno: Vinicius Nejaim de Campos Lima - Matricula: 202402439359*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
